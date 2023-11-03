@@ -1,7 +1,4 @@
-
-interface ITitle {
-    title: string
-}
+import ITitle from "../types/iTitle"
 
 
 function Title(props: ITitle) {
