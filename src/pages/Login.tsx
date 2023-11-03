@@ -1,9 +1,13 @@
+import Title from "../components/Title"
+
+
+
 function Login() {
 
 
     return (
       <>
-        <h1>Login</h1>
+        <Title title="Welcome"/>
       </>
     )
   }

@@ -1,9 +1,12 @@
+import Title from "../components/Title"
+
+
 function AddTodo() {
 
 
     return (
       <>
-        <h1>ADD Todo List</h1>
+        <Title title="New Task" />
       </>
     )
   }
